@@ -1,0 +1,16 @@
+body {
+    background: #F9F9F9;
+    font-weight: 500;
+}
+
+.shop_cat_sec {
+    border: none;
+    text-align: center;
+    background: #ffffff;
+}
+
+.shop_cat_img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
